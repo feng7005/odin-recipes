@@ -1,0 +1,48 @@
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    border: 5px solid violet;
+    margin: 20px;
+    padding: 16px;
+}
+
+.recipes-list {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+}
+
+.recipes-image {
+    width: 310;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.recipes-subtitle {
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 16px;
+}
+
+.recipes-description {
+    color: black;
+    font-size: 16px;
+}
+
+.recipes-ingredients {
+    color: black;
+    font-size: 16px;
+}
+
+.recipes-steps {
+    color: black;
+    font-size: 16px;
+}
